@@ -1,0 +1,7 @@
+blib
+Makefile(.old)?$
+\.bak
+^\.git
+~$
+\.tar(\.gz)?$
+t/test_control.cmd

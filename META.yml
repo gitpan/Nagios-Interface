@@ -1,0 +1,22 @@
+---
+abstract: 'Run-time interaction with Nagios'
+author:
+  - 'Sam Vilain <samv.org>'
+distribution_type: module
+generated_by: 'Module::Install version 0.72'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: Nagios-Interface
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Class::Autouse: 0
+  Moose: 0.32
+  MooseX::Timestamp: 0
+  Scriptalicious: 0
+  perl: 5.008005
+version: 0.01
